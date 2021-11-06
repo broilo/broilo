@@ -1,6 +1,13 @@
 <img src="https://komarev.com/ghpvc/?username=broilo&color=yellow&style=flat-square" alt="broilo" />
 
-### Hi there 👋
+<h2> Hey you... Hi, I'm glad you're here! </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=broilo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> </h2>
+
+<p>
+  Long story short...
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broilo&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **broilo/broilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
