@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+* {
+  font-family: Iowan Old Style, Seravek, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  font-size: 20px;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+main {
+  background-color: whitesmoke;
+  width: 750px;
+  margin: auto;
+  padding: 10px;
+  /*box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);*/
+}
+
+a {
+    text-decoration: none;
+    color: #606fc0;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    clear: both;
+	line-height: 1.4;
+	font-style: normal;
+	font-weight: 300;
+    color: rgb(2, 0, 3);
+}
+
+img.lado {
+    float: left;
+}
