@@ -1,10 +1,19 @@
 <img src="https://komarev.com/ghpvc/?username=broilo&color=yellow&style=flat-square" alt="broilo" />
 
-<h2> Hey you... Hi, I'm glad you're here! </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=broilo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> </h2>
+<h2> Long story short...</h2>
 
-<p>
-  Long story short...
-</p>
+
+<h5>
+  <img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=broilo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+  <p>
+    My name is Mateus, but my friends used to call me Manteiga (which means butter) because I cried too much. 
+  </p>
+  <p>
+    Anyway, I'm a Physicist by definition but I was    
+    feeling a bit bored with it and that's the reason why (at least one of many) I decided to change topics to Data Science.
+  </p>
+</h5>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=broilo&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
