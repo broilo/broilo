@@ -6,7 +6,7 @@
 <h5>
   <img height="180em" align='right' src="https://github-readme-stats.vercel.app/api?username=broilo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
   <p>
-    My name is Mateus, but my friends used to call me Manteiga (which means butter) because I cried too much when I was just a kid. 
+    My name is Mateus, but my friends used to call me Manteiga (which means butter) because I cried too much when I was just a kid. ¯\_(ツ)_/¯
   </p>
   <p>
     Anyway, I'm a Physicist by definition but I was feeling a bit bored with it and that's the reason why (at least one of many) I decided to change topics to Data Science.
