@@ -90,6 +90,7 @@ ___
 </br>
 
 [UFC fighter card info](https://github.com/broilo/UFC-project)
+<br>
 **Project**:
 <br>
   The aim was to recognize the fighter by means of an input image. This was a computer vision project, more precisely a face recognition and identification, using transfer learning, MTCNN (and OpenCV). The MVP was deployed in AWS (using EC2 as server and S3 as bucket).
