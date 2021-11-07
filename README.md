@@ -23,6 +23,8 @@
 </h5>
 
 <a href = "mailto:mateus.broilo90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/mateus.dante/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@mateus.broilo90" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/mateus-broilo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=plastic&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h5>
