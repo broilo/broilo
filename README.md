@@ -40,22 +40,30 @@
     I love to learn different types of methods and approaches to solve the same problem. I feel that's pretty much the logic underneath the hood of coding.
   </p>
 </h5>
-
-
-
-
-Languages that I speak:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Denis-Ub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Denis-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Denis-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Denis-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Denis-Jup" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Denis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Denis-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-
-
   
+</div>
+  
+  ##
+
+Some Techs:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Broilo-Ub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Broilo-Win" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Broilo-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="Broilo-Dock" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Broilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Broilo-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Broilo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Broilo-Gcc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
+  <img align="center" alt="Broilo-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Broilo-Jup" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Broilo-Vs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Broilo-Vim" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
+  <img align="center" alt="Broilo-Md" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg">
+  <img align="center" alt="Broilo-Pd" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Broilo-Numpy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">  
+  <img align="center" alt="Broilo-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Broilo-Sl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
   
 </div>
   
@@ -67,17 +75,25 @@ Languages that I speak:
  
 </div>
 
-<!--
-**broilo/broilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
 
-Here are some ideas to get you started:
+## Papers & Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Academic: Undergrad-MSc-PhD Thesis and Peer-Reviewed Published Papers](https://github.com/broilo/Academic)
+<br>
+  In this repository you'll find all my scientific publisehd works (mostly associated with Physics). Moreover, [HEP-Inspires](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20m%20broilo) shows some stats related to my papers.
+</br>
+  
+[Post-Doctorate projects](https://github.com/broilo/PD-projects)
+<br>
+  Finishied and closed PD-project in High-Energy Physics.
+</br>
+
+[UFC fighter card info](https://github.com/broilo/UFC-project)
+**Project**:
+<br>
+  The aim was to recognize the fighter by means of an input image. This was a computer vision project, more precisely a face recognition and identification, using transfer learning, MTCNN (and OpenCV). The MVP was deployed in AWS (using EC2 as server and S3 as bucket).
+</br>
+
+
+  
