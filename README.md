@@ -30,7 +30,7 @@
 <h5>
 <img height="180em" align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=broilo&theme=github_dark&layout=compact"/> 
   <p>
-    Even today every morning I still take a look at the <a href="https://arxiv.org/list/hep-th/new">High Energy Physics Phenomenology</a> section in arXiv, just to see how what's going on around there.
+    Even today every morning I still take a look at the <a href="https://arxiv.org/list/hep-th/new">High Energy Physics Phenomenology</a> section in arXiv, just to see what's going on around there.
   </p>
   <p>
     Very recently I developed a sudden interest in Casual Inference (my main focus for now). For the time being I'm trying to find a way to connect it in the project that I'm involved with at Indra. 
@@ -39,7 +39,7 @@
     Besides DS, Machine Learning and Physics, I really like to study Finance, but nothing too deep, just as a hobby.
   </p>
   <p>
-    I love to learn different types of methods and approaches to solve the same problem. I feel that's pretty much the logic underneath the hood of coding.
+    I love to learn different types of methods and approaches to solve the same problem. I feel that's pretty much the essence underneath the hood of coding.
   </p>
 </h5>
   
