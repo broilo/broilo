@@ -73,7 +73,9 @@ Some Techs:
  
 <div> 
 
-  ![Snake animation](https://github.com/broilo/broilo/blob/output/github-contribution-grid-snake.svg)
+<!---!
+[Snake animation](https://github.com/broilo/broilo/blob/output/github-contribution-grid-snake.svg)
+-->
  
 </div>
 
