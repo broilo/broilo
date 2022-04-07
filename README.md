@@ -85,12 +85,12 @@ ___
 
 [Academic: Undergrad-MSc-PhD Thesis and Peer-Reviewed Published Papers](https://github.com/broilo/Academic)
 <br>
-  In this repository you'll find all my scientific publisehd works (mostly associated with Physics). Moreover, [HEP-Inspires](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20m%20broilo) shows some stats related to my papers.
+  In this repository you'll find all my scientific published works (mostly associated with Physics). Moreover, [HEP-Inspires](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20m%20broilo) shows some stats related to my papers.
 </br>
   
 [Post-Doctorate projects](https://github.com/broilo/PD-projects)
 <br>
-  Finishied and closed PD-project in High-Energy Physics.
+  Finished and closed PD-project in High-Energy Physics.
 </br>
 
 [UFC fighter card info](https://github.com/broilo/UFC-project)
