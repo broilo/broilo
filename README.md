@@ -33,7 +33,7 @@
     Even today every morning I still take a look at the <a href="https://arxiv.org/list/hep-th/new">High Energy Physics Phenomenology</a> section in arXiv, just to see what's going on around there.
   </p>
   <p>
-    Very recently I developed a sudden interest in Casual Inference (my main focus for now). For the time being I'm trying to find a way to connect it in the project that I'm involved with at Indra. 
+    Very recently I developed a sudden interest in Causal Inference (my main focus for now). For the time being I'm trying to find a way to connect it in the ongoing project. 
   </p>
   <p>
     Besides DS, Machine Learning and Physics, I really like to study Finance, but nothing too deep, just as a hobby.
