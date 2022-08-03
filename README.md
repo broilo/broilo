@@ -12,7 +12,7 @@
     Anyway, I'm a Physicist by definition but I was feeling a bit bored with it and that's the reason why (at least one of many) I decided to change topics to Data Science.
   </p>
   <p>
-    I was Forged under Fortran's careful eyes!
+    BTW: I was Forged under Fortran's careful eyes!
   </p>
   <p>
     I really like working in cross-functional teams with people smarter than me and I'm always seeking the One Question that shapes everything.
